@@ -73,4 +73,5 @@ int main()
 {
     input();
     nearSearch();
-    
+    display();
+}
